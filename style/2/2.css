@@ -560,6 +560,7 @@ body{
   .main{
     background-image: none;
     background: url(res.jpg)no-repeat;
+    background-size: cover;
   }
 
   header .navigation{

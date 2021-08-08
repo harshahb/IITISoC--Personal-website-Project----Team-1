@@ -557,6 +557,10 @@ body{
   header.sticky{
     padding: 10px 20px;
   }
+  .main{
+    background-image: none;
+    background: url(res.jpg)no-repeat;
+  }
 
   header .navigation{
     display: none;
@@ -595,7 +599,7 @@ body{
 
   .menu-btn{
     position: absolute;
-    /* background: url(menu.png)no-repeat; */
+    background: url(menu.png)no-repeat;
     background-size: 30px;
     background-position: center;
     width: 60px;
